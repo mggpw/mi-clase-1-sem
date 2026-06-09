@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Integración de TIC en IES</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800">
+
+    <!-- Portada -->
+    <header class="bg-blue-900 text-white py-16 px-6 text-center">
+        <h1 class="text-4xl font-bold mb-4">Integración de TIC en Instituciones de Educación Superior</h1>
+        <p class="text-blue-200">Secuencia de actividades grupales · Texto base: Nóbile y Sanz (UNLP)</p>
+    </header>
+
+    <main class="max-w-4xl mx-auto py-10 px-4">
+        
+        <!-- Actividad 1 -->
+        <section class="bg-white p-8 rounded-lg shadow-md mb-8 border-l-4 border-blue-500">
+            <h2 class="text-2xl font-bold mb-2">Actividad 1: ¿Qué significa integrar TIC?</h2>
+            <p class="text-gray-500 mb-4 text-sm">⏱ 20 min · Deconstrucción conceptual</p>
+            <div class="bg-blue-50 p-4 rounded mb-4 italic text-sm">
+                "La integración no concluye cuando se logra informar, comunicarse o evaluar utilizando estas herramientas, sino que supone una modificación global del sistema educativo." — Gross (2000)
+            </div>
+            <ul class="list-decimal ml-5 space-y-2">
+                <li><strong>Diferencia:</strong> Construyan la distinción entre uso instrumental e integración.</li>
+                <li><strong>Institución:</strong> ¿En qué nivel está la institución que conocen?</li>
+                <li><strong>Actores:</strong> ¿Quién lidera el cambio? Justifiquen.</li>
+            </ul>
+        </section>
+
+        <!-- Actividad 2 -->
+        <section class="bg-white p-8 rounded-lg shadow-md mb-8 border-l-4 border-green-500">
+            <h2 class="text-2xl font-bold mb-2">Actividad 2: Los tres niveles del marco</h2>
+            <p class="text-gray-500 mb-4 text-sm">⏱ 30 min · Análisis del modelo</p>
+            <div class="grid grid-cols-3 gap-2 text-center text-xs mb-4">
+                <div class="bg-green-100 p-2 rounded">1° Nivel: País</div>
+                <div class="bg-indigo-100 p-2 rounded">2° Nivel: Institución</div>
+                <div class="bg-red-100 p-2 rounded">3° Nivel: Carrera</div>
+            </div>
+            <p class="mb-4 text-sm">Analicen la relación entre estos tres niveles y cuál resulta más determinante para la transformación.</p>
+        </section>
+
+        <!-- Actividad 3 -->
+        <section class="bg-white p-8 rounded-lg shadow-md mb-8 border-l-4 border-orange-500">
+            <h2 class="text-2xl font-bold mb-2">Actividad 3: Etapas de apropiación</h2>
+            <p class="text-gray-500 mb-4 text-sm">⏱ 25 min · Análisis de viñeta</p>
+            <p class="bg-orange-50 p-4 rounded mb-4 text-sm font-medium">Viñeta: Marcelo, docente de primer año, usa Moodle para PDFs y avisos. Se siente frustrado con el uso del celular en clase.</p>
+            <p class="text-sm">Identifiquen la etapa (Sandholtz, Ringstaff y Dwyer) y propongan una acción situada para avanzar.</p>
+        </section>
+
+        <!-- Actividad 4 -->
+        <section class="bg-white p-8 rounded-lg shadow-md mb-8 border-l-4 border-purple-500">
+            <h2 class="text-2xl font-bold mb-2">Actividad 4: Diseño de diagnóstico</h2>
+            <p class="text-gray-500 mb-4 text-sm">⏱ 20 min · Síntesis final</p>
+            <p class="text-sm">Diseñen un protocolo de diagnóstico que contemple las 5 dimensiones (Estratégica, Organizativa, Tecnológica, Cultural, Profesional) para una institución real.</p>
+        </section>
+
+        <!-- Botón de entrega -->
+        <div class="text-center mt-10">
+            <a href="#" class="bg-blue-600 text-white px-8 py-3 rounded-full hover:bg-blue-700 transition">Enviar respuestas (Google Form)</a>
+        </div>
+
+    </main>
+</body>
+</html>
